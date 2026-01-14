@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/dlwjd/Desktop/BAEKJOON/단계별/01_입출력과 사칙연산",
-      "program": "c:/Users/dlwjd/Desktop/BAEKJOON/단계별/01_입출력과 사칙연산/build/Debug/outDebug",
+      "cwd": "c:/Users/dlwjd/Desktop/BAEKJOON",
+      "program": "c:/Users/dlwjd/Desktop/BAEKJOON/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
